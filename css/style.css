@@ -1,0 +1,324 @@
+.bg-beige{
+    background-color: beige;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.left-flex{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.right-flex{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+div.d-flex div a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding-top: 4px;
+}
+
+.c-button{
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 60%;
+    background-color: rgba(21, 122, 87, 0.841);
+    font-weight: bold;
+}
+
+.c-mobile-button{
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 100%;
+    background-color: rgba(21, 122, 87, 0.841);
+    font-weight: bold;
+}
+
+.email-flex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10%;
+}
+
+.email-mobile-flex{
+    display: block;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.big-insert{
+    width: 100%;
+    height: 45px;
+    border: 3px solid rgba(21, 122, 87, 0.841);
+    border-radius: 5px;
+}
+
+.row{
+    align-items: center;
+}
+
+.h1-bg-beige{
+    font-size: 64px;
+    color: rgb(1, 65, 64);
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+
+.img-mobile{
+    margin-top: 3%;
+    width: 90%;
+}
+
+.bg-green{
+    background-color: rgb(0, 90, 81);
+}
+
+.h1-bg-green{
+    padding-top: 5%;
+    color: white;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+
+.p-bg-green{
+    color: white;
+}
+
+.a-bg-green{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.white-green-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.images-flex{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    color: white;
+    gap: 10px;
+}
+
+.img-green{
+    max-width: 100%;
+    display: flex;
+
+}
+
+.button{
+    width: 100%;
+    border-style: none;
+    background-color: rgb(0, 90, 81);
+    text-align: left;
+    padding-left: 0%;
+}
+
+div.images-flex div a{
+    color: white;
+    text-decoration: none;
+}
+
+div.images-flex div h4{
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.h1-margin-bottom{
+    margin-bottom: 3%;
+}
+
+.images-flex-bottom{
+    padding-bottom: 3%;
+}
+
+.text-grey{
+    color: rgb(133, 132, 132);
+}
+
+.text-justify{
+    text-align: justify;
+    text-align: center;
+}
+
+.images-flex-last{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+    margin: auto;
+    color: white;
+}
+
+div.images-flex-last div a{
+    color: white;
+    text-decoration: none;
+}
+
+.images-flex-mobile{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    color: white;
+    gap: 10px;
+}
+
+div.images-flex-mobile div h1{
+    padding-bottom: 1%;
+}
+
+div.images-flex-mobile div img{
+    padding-bottom: 1%;
+}
+
+div.bg-white div h1{
+    padding-top: 7%;
+    text-align: center;
+}
+
+.bg-white{
+    background-color: white;
+    padding-bottom: 5%;
+}
+
+div.bg-white div.row div p{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: auto;
+    font-size: 20px;
+    color: rgb(133, 132, 132);
+}
+
+div.bg-white div a{
+    color: rgba(21, 122, 87, 0.841);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+div.bg-white div.final-row div p{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 17%;
+    margin: auto;
+    font-size: 20px;
+    color: black;
+}
+
+div.bg-white div.row div img{
+    max-width: 100%;
+}
+
+.earth-img{
+    max-width: 100%;
+    max-height: 100%;
+    padding-top: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+.img-padding-bottom{
+    padding-bottom: 10%;
+    padding-top: 2%;
+}
+
+.earth-img-mobile{
+    margin: auto;
+    display: block;
+    max-width: 65%;
+    padding-top: 5%;
+}
+
+.bruh{
+    background-color: rgb(3, 63, 34);
+}
+
+
+
+div.bruh div p{
+    color: white;
+    margin-top: 5%;
+
+}
+
+.centramento{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sponsor-flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    color: white;
+}
+
+div.helpbox div h1{
+    font-size: 32px;
+    font-weight: normal;
+}
+
+div.helpbox div a{
+    color: rgba(21, 122, 87, 0.841);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.helpbox{
+    margin-top: 5%;
+}
+
+div.helpbox div img{
+    display: block;
+    max-width: 100%;
+}
+
+.bruh-image{
+    display: block;
+    max-width: 100%;
+}
+
+div.helpbox div h4{
+    margin-top: 5%;
+}
+
+div.helpbox div h1{
+    font-size: 36px; 
+    margin-bottom: 20px;
+}
+
+.we-are{
+    margin-top: 5%;
+}
+
+div.we-are div a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
